@@ -6,6 +6,7 @@ int main()
     int p[10], at[10], bt[10], ct[10], tat[10], wt[10], i, j, temp = 0, n;
     float awt = 0, atat = 0; // Average waiting time and turnaround time
 
+    
     // Input: Number of processes
     printf("Enter the number of processes: ");
     scanf("%d", &n);
