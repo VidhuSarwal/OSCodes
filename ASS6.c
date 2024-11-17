@@ -1,6 +1,7 @@
 #include<stdio.h>
 
-int main()
+int main() 
+
 {
     // Variable declarations
     int p[10], bt[10], at[10], pri[10], wt[10], tat[10], n, i, j, temp;
